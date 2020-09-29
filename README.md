@@ -9,7 +9,7 @@
 
 > ## Syntax and basics
 
-[Syntax](https://github.com/manojuppala/Dart-programming/Syntax.dart) defines a set of rules for writing programs. Every language specification defines its own syntax. A Dart program is composed of −
+[Syntax](https://github.com/manojuppala/Dart-programming/blob/master/Syntax.dart) defines a set of rules for writing programs. Every language specification defines its own syntax. A Dart program is composed of −
 
 - Variables and Operators
 - Classes
@@ -37,7 +37,7 @@ The Dart language supports the following types−
 - Lists
 - Maps
 
-[Refer this program](https://github.com/manojuppala/Dart-programming/data_types.dart)
+[Refer this program](https://github.com/manojuppala/Dart-programming/blob/master/data_types.dart)
 
 > ### Variables
 
@@ -54,14 +54,14 @@ There are 4 types of loops in dart :
 - for in loop
 - while loop
 - do..while loop
-  [Refer this program](https://github.com/manojuppala/Dart-programming/loops.dart)
+  [Refer this program](https://github.com/manojuppala/Dart-programming/blob/master/loops.dart)
 
 > ### Lists
 
 lists in dart can be classified into two types they are:
 
-- fixed lists [Reference code](https://github.com/manojuppala/Dart-programming/list_and_map.dart)
-- growable lists [Reference code](https://github.com/manojuppala/Dart-programming/list_and_map.dart)
+- fixed lists [Reference code](https://github.com/manojuppala/Dart-programming/blob/master/list_and_map.dart)
+- growable lists [Reference code](https://github.com/manojuppala/Dart-programming/blob/master/list_and_map.dart)
 
 > ### Map
 >
@@ -71,7 +71,7 @@ Maps can be declared in two ways −
 
 - Using Map Literals
 - Using a Map constructor
-  [Reference code](https://github.com/manojuppala/Dart-programming/list_and_map.dart)
+  [Reference code](https://github.com/manojuppala/Dart-programming/blob/master/list_and_map.dart)
 
 ## Bibliography
 
