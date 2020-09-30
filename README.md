@@ -64,14 +64,19 @@ lists in dart can be classified into two types they are:
 - growable lists [Reference code](https://github.com/manojuppala/Dart-programming/blob/master/list_and_map.dart)
 
 > ### Map
->
-> The Map object is a simple key/value pair. Keys and values in a map may be of any type. A Map is a dynamic collection. In other words, Maps can grow and shrink at runtime.
+
+The Map object is a simple key/value pair. Keys and values in a map may be of any type. A Map is a dynamic collection. In other words, Maps can grow and shrink at runtime.
 
 Maps can be declared in two ways −
 
 - Using Map Literals
 - Using a Map constructor
   [Reference code](https://github.com/manojuppala/Dart-programming/blob/master/list_and_map.dart)
+
+> ## Interfaces
+
+An interface defines the syntax that any entity must adhere to. Interfaces define a set of methods available on an object. Dart does not have a syntax for declaring interfaces. Class declarations are themselves interfaces in Dart.
+[Reference code](https://github.com/manojuppala/Dart-programming/blob/master/interfaces.dart)
 
 ## Bibliography
 
